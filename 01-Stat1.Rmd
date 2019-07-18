@@ -13,7 +13,7 @@ if (!require("pacman")) install.packages("pacman")
 pacman::p_load(timeDate, DT,plotly,rio,exams,e1071,WriteXLS,readxl,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,ape,rdrop2) #load various packages
 ```
 
-# Indledning.
+# Indledning
 					
 <!-- BEGIN PROTECT-->
 <!-- <meta name="robots" content="noindex, nofollow"> -->
